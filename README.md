@@ -1,6 +1,5 @@
 # CODSOFT
 # CODSOFT Internship – Java Programming Tasks
-# CODSOFT Internship – Java Programming Tasks
 
 This repository contains all the tasks I completed during my **CodSoft Virtual Internship** in **Java Programming** (September – October 2025).  
 The internship duration is **4 weeks**, and the focus is on enhancing programming skills through practical tasks and projects.  
